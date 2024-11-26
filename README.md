@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Chaitanya Lohani
-###🎓B.Sc(Prog) Physical Science Student | 💻 Aspiring Developer
+### 🎓B.Sc(Prog) Physical Science Student | 💻 Aspiring Developer
 <!--
 **AloneFFOfficial/AloneFFOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
