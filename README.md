@@ -11,7 +11,8 @@ Currently, I’m learning full-stack development and exploring exciting projects
 
 ## Languages  
 - 🌟 **Python** (Intermediate)  
-- 🌟 **JavaScript** (Beginner to Intermediate)  
+- 🌟 **JavaScript** (Beginner to Intermediate)
+- 🌟 **Java** (Beginner to Intermediate)
 - 🌟 **HTML5** & **CSS3**  
 
 ## Frameworks, Libraries, & Tools  
@@ -43,8 +44,8 @@ A natural language processing (NLP) chatbot built with SpaCy, Streamlit for the 
 
 # 📫 How to Reach Me  
 
-- 💌 **Email:** chaitanya.lohani@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/chaitanyalohani](https://linkedin.com/in/chaitanyalohani)  
+- 💌 **Email:** chaitanyalohani175@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/chaitanyalohani](www.linkedin.com/in/chaitanya-lohani)  
 
 Let’s connect and build something amazing! 🚀  
 
