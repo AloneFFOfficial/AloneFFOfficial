@@ -45,7 +45,7 @@ A natural language processing (NLP) chatbot built with SpaCy, Streamlit for the 
 # 📫 How to Reach Me  
 
 - 💌 **Email:** chaitanyalohani175@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/chaitanyalohani](www.linkedin.com/in/chaitanya-lohani)  
+- 💼 **LinkedIn:** [linkedin.com/in/chaitanya-lohani](https://www.linkedin.com/in/chaitanya-lohani/)  
 
 Let’s connect and build something amazing! 🚀  
 
